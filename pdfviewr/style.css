@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.top-bar{
+    background: #333;
+    color:#fff;
+    padding: 1rem;
+}
+
+.btn{
+    background: blueviolet;
+    color: white;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 0.7rem 2rem;
+}
+canvas{
+    background: blueviolet;
+}
+.btn:hover{
+    opacity:0.8;
+}
+
+.page-info{
+    margin-left: 1rem;
+}
+
+.error{
+    background: blue;
+    color:white;
+    padding: 1rem;
+
+}
